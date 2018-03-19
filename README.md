@@ -2,4 +2,4 @@
 Minified and scoped to .slds-scoped
 
 ## Usage
-Access using https://raw.githubusercontent.com/BinaryRefinery/slds-scoped/slds-scoped.min.css
+Access using https://raw.githubusercontent.com/binaryrefinery/slds-scoped/master/slds-scoped.min.css
